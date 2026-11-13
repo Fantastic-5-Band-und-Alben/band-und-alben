@@ -36,7 +36,7 @@ Rollen und Zusammenarbeit: [Teamorganisation](Dokumentation/Teamorganisation.md)
 
 ## Andere Links
 
-- [Kanban Board](https://github.com/orgs/Fantastic-5-Band-und-Alben/projects) (GitHub Projects)
+- [Kanban Board](https://github.com/orgs/Fantastic-5-Band-und-Alben/projects/1) (GitHub Projects)
 - [Zeitlogging](Dokumentation/Zeitlogging/Readme.md)
 - Lernjournal _Name_: _externer Link_ (freiwillig)
 - Lernjournal _Name_: _externer Link_ (freiwillig)

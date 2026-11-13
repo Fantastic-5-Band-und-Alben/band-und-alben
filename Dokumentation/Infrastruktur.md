@@ -4,7 +4,7 @@
 |---------|------|------|
 | Git Repository | GitHub | [band-und-alben](https://github.com/Fantastic-5-Band-und-Alben/band-und-alben) |
 | CI/CD | GitHub Actions | `.github/workflows/` (folgt) |
-| Kanban Board | GitHub Projects | [Projects der Organisation](https://github.com/orgs/Fantastic-5-Band-und-Alben/projects) |
+| Kanban Board | GitHub Projects | [Kanban Band und Alben](https://github.com/orgs/Fantastic-5-Band-und-Alben/projects/1) |
 | Zeitlogging | Markdown im Repository | [Zeitlogging](Zeitlogging/Readme.md) |
 | Lernjournal | persönliches Repository pro Person | im [Readme](../Readme.md) verlinkt |
 
