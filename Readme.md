@@ -44,11 +44,11 @@ Gruppenprojekt Modul 324 (DevOps), **Projekt 3: Musikplattform**. Ein Web API (n
 
 - [Kanban Board](https://github.com/orgs/Fantastic-5-Band-und-Alben/projects/1)
 - [Zeitlogging](Dokumentation/Zeitlogging/Readme.md)
-- [Lernjournal Leon](https://github.com/LeonWWImmo/m324-lernjournal)
-- Lernjournal _Name_: _Link_
-- Lernjournal _Name_: _Link_
-- Lernjournal _Name_: _Link_
-- Lernjournal _Name_: _Link_
+- [Lernjournal Leon](https://github.com/Fantastic-5-Band-und-Alben/m324-lernjournal-Leon) (privat)
+- [Lernjournal Leart](https://github.com/Fantastic-5-Band-und-Alben/m324-lernjournal-leart) (privat)
+- [Lernjournal Ajna](https://github.com/Fantastic-5-Band-und-Alben/m324-lernjournal-Ajna) (privat)
+- [Lernjournal Levin](https://github.com/Fantastic-5-Band-und-Alben/m324-lernjournal-levin) (privat)
+- [Lernjournal Rana](https://github.com/Fantastic-5-Band-und-Alben/m324-lernjournal-rana) (privat)
 
 ## Termine und Abgaben
 

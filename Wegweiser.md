@@ -24,7 +24,7 @@ Die genauen Anforderungen stehen in den [User Stories](Dokumentation/User_Storie
 | Was wurde zuletzt gemacht? | [`CLAUDE.md`](CLAUDE.md) – Projektlog |
 | KI-Prompts dokumentieren | [`prompt-log.md`](prompt-log.md) – jeder Prompt |
 | KI-Nutzung für Abgaben | [`Dokumentation/KI-Nachweis.md`](Dokumentation/KI-Nachweis.md) |
-| Mein Lernjournal (freiwillig) | eigenes Repo – siehe unten |
+| Mein Lernjournal (freiwillig) | eigenes privates Repo `m324-lernjournal-Vorname` – Links im [Readme](Readme.md#andere-links) |
 
 ## Erste Schritte (einmalig)
 
@@ -35,7 +35,7 @@ Die genauen Anforderungen stehen in den [User Stories](Dokumentation/User_Storie
    ```
 3. **Zeitlogging anlegen:** [`Vorlage.md`](Dokumentation/Zeitlogging/Vorlage.md) kopieren als `Dokumentation/Zeitlogging/DeinVorname.md` und in der [Übersicht](Dokumentation/Zeitlogging/Readme.md) eintragen.
 4. **Im Readme** deinen Namen, dein GitHub-Konto und deine Rolle in die Team-Tabelle eintragen.
-5. **Lernjournal (freiwillig):** Öffne die [Lernjournal-Vorlage](https://github.com/Fantastic-5-Band-und-Alben/lernjournal-vorlage) → **Use this template** → als Owner **dein eigenes Konto** wählen, **Private** → Lehrperson unter *Settings → Collaborators* einladen → Link im Readme unter „Andere Links“ eintragen.
+5. **Lernjournal (freiwillig):** Jede Person hat ihr eigenes privates Repo `m324-lernjournal-Vorname` in der Organisation. Lehrperson dort unter *Settings → Collaborators* einladen.
 
 ## So arbeiten wir
 
