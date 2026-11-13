@@ -1,0 +1,12 @@
+# Betriebssystem und Editoren
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+
+# Umgebungsvariablen und Zugangsdaten – nie committen
+.env
+.env.*
+!.env.example
