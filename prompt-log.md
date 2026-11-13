@@ -20,6 +20,14 @@ Für Abgaben zusätzlich einen ausgewählten Eintrag in den [KI-Nachweis](Dokume
 
 ## Einträge (neuster oben)
 
+### 13.11.2026 – Leon – Zeitlog-Dateien
+- Tool: Claude Code
+- Zweck: Zeitlogging für alle starten (Teil der P1-Abgabe)
+- Prompt (Inhalt): Warum schon Zeitlog ohne Coding? Danach: Zeitlog-Datei für alle anlegen; heute läuft alles über Leon, weil wir zusammen an einem Gerät gearbeitet haben.
+- Ergebnis: D4 verlangt Zeitlog ab Tag 1 für alle Tätigkeiten (auch Planung, Meetings, Theorie). Dateien für Leart, Ajna, Levin, Rana mit der heutigen Setup-Session; Minuten trägt jede Person selbst ein.
+- Übernommen / angepasst / verworfen: übernommen
+- Geprüft durch: Abgleich mit P1 und D4
+
 ### 13.11.2026 – Leon – P1-Check und Zugriffe
 - Tool: Claude Code
 - Zweck: Prüfen, ob P1 vollständig ist, und fehlende Zugriffe einrichten

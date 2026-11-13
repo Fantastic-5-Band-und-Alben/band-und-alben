@@ -9,7 +9,9 @@
 | Person | Datei |
 |--------|-------|
 | Leon | [Leon.md](Leon.md) |
-| _Name_ | _Name.md_ |
-| _Name_ | _Name.md_ |
-| _Name_ | _Name.md_ |
-| _Name_ | _Name.md_ |
+| Leart | [Leart.md](Leart.md) |
+| Ajna | [Ajna.md](Ajna.md) |
+| Levin | [Levin.md](Levin.md) |
+| Rana | [Rana.md](Rana.md) |
+
+Wo `?` steht, trägt die Person ihre Minuten selbst nach.
