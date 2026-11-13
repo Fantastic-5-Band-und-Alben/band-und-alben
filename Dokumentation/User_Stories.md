@@ -2,13 +2,33 @@
 
 Wir erstellen eine Applikation, mit der man Bands und Alben verwalten kann. Rolle: Anbieter einer Plattform, auf der man Musik kaufen kann. Nur Backend – jede User Story ist ein Endpoint eines Web APIs.
 
-Die User Stories sind vom Modul vorgegeben. Der PO leitet daraus und aus dem Epic die Stories auf dem [Kanban Board](https://github.com/orgs/Fantastic-5-Band-und-Alben/projects/1) ab.
+Die User Stories sind vom Modul vorgegeben und gehören zu **P2** (Abgabe Woche 5). Sie hängen am [Epic #24](https://github.com/Fantastic-5-Band-und-Alben/band-und-alben/issues/24) und sind auf die Sprints verteilt.
 
-| Nr. | Microservice | User Story | Endpoint | Issue |
-|-----|--------------|------------|----------|-------|
-| US1 | Bands | Band erfassen | _festlegen_ | folgt (PO) |
-| US2 | Bands | Alle Bands auslesen | _festlegen_ | folgt (PO) |
-| US3 | Alben | Alben erfassen | _festlegen_ | folgt (PO) |
+| Nr. | Service | User Story | Endpoint | Sprint | Issue |
+|-----|---------|------------|----------|--------|-------|
+| US1 | Bands | Band erfassen | siehe [Contract](API_Contract.md) | 2 | #15 |
+| US2 | Bands | Alle Bands auslesen | siehe [Contract](API_Contract.md) | 2 | #16 |
+| US3 | Alben | Alben erfassen | siehe [Contract](API_Contract.md) | 3 | #17 |
+
+## Plan bis P2
+
+| Sprint | Woche | Was |
+|--------|-------|-----|
+| 1 | 2 | API-Contract festlegen (#27) – dazu Rest P1, T1, T2, FG1 |
+| 2 | 3 | Projektgerüste (#28, #29), US1 und US2 – dazu T3 und D2 |
+| 3 | 4 | US3, Integrationstest planen (#30) |
+| 4 | 5 | P2 abschliessen, FG2 (#18) |
+
+Wer welche Karte macht, legen wir im Sprint-Meeting fest.
+
+## Was P2 für jede Story verlangt
+
+- Mindestens 2–3 Unit Tests pro Endpoint, Happy Path und Sad Path.
+- Tests sind isoliert: keine echte Datenbank, kein anderer Service. Sie laufen auf jedem Rechner.
+- Tests sind im JavaDoc-Stil dokumentiert (bei C# mit `///`-Kommentaren).
+- Integrationstests früh planen. Bewertet werden sie mit der CI-Pipeline.
+- Prozesse aus D3 einhalten: Branch, Pull Request, Review.
+- Bei KI-Nutzung: Prompt, geprüfte Aussage, Validierung, Anpassung und eigene Entscheidung festhalten.
 
 **Wichtig:** Beide Microservices sind separate Projekte. Sie dürfen dieselbe Datenbank verwenden, aber nicht die Daten des anderen Service laden. Der Endpoint von US3 muss die Band über den Endpoint von US2 auslesen, nicht direkt aus der Datenbank.
 

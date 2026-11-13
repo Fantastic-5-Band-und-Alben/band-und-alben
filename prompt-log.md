@@ -20,6 +20,14 @@ Für Abgaben zusätzlich einen ausgewählten Eintrag in den [KI-Nachweis](Dokume
 
 ## Einträge (neuster oben)
 
+### 13.11.2026 – Leon – P2 planen und KI-Nachweis P1
+- Tool: Claude Code
+- Zweck: P2 früh planen und P1 abschliessen
+- Prompt (Inhalt): Prüfen, ob die User Stories vom Lehrer vorgegeben sind (nur suchen). Danach: Stories für P2 aufnehmen, auf einwöchige Sprints verteilen (Zuweisung erst nächste Woche), alle P2-Anforderungen notieren. Meetings: diese Woche nur Planungsbesprechungen. KI-Nachweis P1 schreiben.
+- Ergebnis: 3 Stories in Projekt3_Musikplattform.md gefunden (P5 wird nicht verwendet). Stories #15–17 mit P2-Vorgaben ergänzt, Vorarbeiten #27–#30 (Contract, Gerüste, Integrationstest), alles auf Sprint 1–4 verteilt und ans Epic gehängt. KI-Nachweis P1 mit Lücken für die persönlichen Punkte.
+- Übernommen / angepasst / verworfen: übernommen; Zuweisung der Personen macht das Team am Freitag
+- Geprüft durch: Abgleich mit P2 und Projekt 3
+
 ### 13.11.2026 – Leon – P1-Abgabe als Übersicht
 - Tool: Claude Code
 - Zweck: Der Lehrperson P1 auf einer Seite zeigen können

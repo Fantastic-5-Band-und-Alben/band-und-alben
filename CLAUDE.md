@@ -53,6 +53,7 @@ Neuster Eintrag oben. Format: Datum · Wer · Was · Branch/PR
 
 | Datum | Wer | Was wurde gemacht | Branch / PR |
 |-------|-----|-------------------|-------------|
+| 13.11.2026 | Leon | P2 geplant: User Stories wieder aufgenommen und mit den P2-Vorgaben ergänzt, Contract und Projektgerüste als Vorarbeit, alles auf Sprint 1–4 verteilt. KI-Nachweis P1 geschrieben, API-Contract-Gerüst angelegt | `p2/stories-und-sprints` |
 | 13.11.2026 | Leon | P1-Abgabe als Übersicht mit allen Links (Dokumentation/P1_Abgabe.md), im Readme verlinkt | `docs/p1-abgabe` |
 | 13.11.2026 | Leon | Zeitlog-Dateien für alle angelegt, 150 Minuten gemeinsame Session für alle. Hinweis: Heute haben wir gemeinsam an einem Gerät (Leon) gearbeitet und viel besprochen – deshalb laufen alle Commits von heute über Leon | #25 |
 | 13.11.2026 | Leon | Team „Fantastic 5“ mit Schreibrechten auf Repo und Board, Lehrperson eingeladen, GitHub-Namen im Readme | #25 |
