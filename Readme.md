@@ -9,10 +9,10 @@ Gruppenprojekt Modul 324 (DevOps), **Projekt 3: Musikplattform**. Ein Web API (n
 | Name | GitHub | Rolle |
 |------|--------|-------|
 | Leon | [@LeonWWImmo](https://github.com/LeonWWImmo) | Product Owner, Entwicklung Band-Service, Testing |
-| Leart | _@github_ | Entwicklung Band-Service, Testing |
-| Ajna | _@github_ | CI/CD, Entwicklung Album-Service, Testing |
-| Levin | _@github_ | Entwicklung Album-Service, Testing |
-| Rana | _@github_ | Entwicklung Album-Service, Testing |
+| Leart | [@Leart165](https://github.com/Leart165) | Entwicklung Band-Service, Testing |
+| Ajna | [@aj-kry](https://github.com/aj-kry) | CI/CD, Entwicklung Album-Service, Testing |
+| Levin | [@Le999vin](https://github.com/Le999vin) | Entwicklung Album-Service, Testing |
+| Rana | [@ranaaksoy](https://github.com/ranaaksoy) | Entwicklung Album-Service, Testing |
 
 - [Projektlog (CLAUDE.md)](CLAUDE.md) – was wurde gemacht
 - [Prompt-Log](prompt-log.md) – alle KI-Prompts

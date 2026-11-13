@@ -53,6 +53,7 @@ Neuster Eintrag oben. Format: Datum · Wer · Was · Branch/PR
 
 | Datum | Wer | Was wurde gemacht | Branch / PR |
 |-------|-----|-------------------|-------------|
+| 13.11.2026 | Leon | Team „Fantastic 5“ mit Schreibrechten auf Repo und Board, Lehrperson eingeladen, GitHub-Namen im Readme | #25 |
 | 13.11.2026 | Leon | Pflicht-Check für Pull Requests (Zeitlog, Projektlog, Prompt-Log) und PR-Vorlage | #25 |
 | 13.11.2026 | Leon | Teams, Sprints, Epic, Projektlog und Prompt-Log eingerichtet | #25 |
 | 13.11.2026 | Leon | Organisation, Repository, Struktur, Kanban Board und Lernjournal-Vorlage eingerichtet | #1 |

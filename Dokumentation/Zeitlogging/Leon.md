@@ -4,6 +4,7 @@
 |--------|-------|---------|-----|--------------|
 | #1 | 13.11.2026 | ? | Leon | Organisation, Repository, Struktur und Kanban Board eingerichtet |
 | #25 | 13.11.2026 | ? | Leon | Teamprozess: Rollen, Sprints, Epic, Projektlog, Prompt-Log, Pflicht-Check |
+| #2 | 13.11.2026 | ? | Leon | Team und Lehrperson eingeladen, Schreibrechte auf Repo und Board |
 
 ## Total pro Modultag
 

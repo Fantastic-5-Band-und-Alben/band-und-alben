@@ -20,6 +20,14 @@ Für Abgaben zusätzlich einen ausgewählten Eintrag in den [KI-Nachweis](Dokume
 
 ## Einträge (neuster oben)
 
+### 13.11.2026 – Leon – P1-Check und Zugriffe
+- Tool: Claude Code
+- Zweck: Prüfen, ob P1 vollständig ist, und fehlende Zugriffe einrichten
+- Prompt (Inhalt): Stand P1 gegen die Abgabekriterien prüfen. Danach: Team mit Schreibrechten anlegen, Lehrperson Schreibrechte auf Repo und Board geben, GitHub-Namen im Readme eintragen.
+- Ergebnis: Members hatten nur Leserechte → Team „Fantastic 5“ mit Schreibrechten; Lehrperson mit Schreibrechten eingeladen (Repo und Board); GitHub-Namen im Readme
+- Übernommen / angepasst / verworfen: übernommen
+- Geprüft durch: Berechtigungen pro Person über GitHub abgefragt
+
 ### 13.11.2026 – Leon – Pflichten automatisch prüfen
 - Tool: Claude Code
 - Zweck: Sicherstellen, dass Zeitlog, Projektlog und Prompt-Log bei jeder Arbeit nachgeführt werden
