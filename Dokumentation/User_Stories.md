@@ -6,9 +6,9 @@ Die User Stories sind vom Modul vorgegeben. Jede Story ist zusätzlich ein Issue
 
 | Nr. | Microservice | User Story | Endpoint | Issue |
 |-----|--------------|------------|----------|-------|
-| US1 | Bands | Band erfassen | _festlegen_ | US1 |
-| US2 | Bands | Alle Bands auslesen | _festlegen_ | US2 |
-| US3 | Alben | Alben erfassen | _festlegen_ | US3 |
+| US1 | Bands | Band erfassen | _festlegen_ | #15 |
+| US2 | Bands | Alle Bands auslesen | _festlegen_ | #16 |
+| US3 | Alben | Alben erfassen | _festlegen_ | #17 |
 
 **Wichtig:** Beide Microservices sind separate Projekte. Sie dürfen dieselbe Datenbank verwenden, aber nicht die Daten des anderen Service laden. Der Endpoint von US3 muss die Band über den Endpoint von US2 auslesen, nicht direkt aus der Datenbank.
 
