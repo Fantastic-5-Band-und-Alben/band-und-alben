@@ -20,6 +20,14 @@ Für Abgaben zusätzlich einen ausgewählten Eintrag in den [KI-Nachweis](Dokume
 
 ## Einträge (neuster oben)
 
+### 13.11.2026 – Leon – Pflichten automatisch prüfen
+- Tool: Claude Code
+- Zweck: Sicherstellen, dass Zeitlog, Projektlog und Prompt-Log bei jeder Arbeit nachgeführt werden
+- Prompt (Inhalt): Bei jeder Arbeit soll Pflicht sein, dass Zeitlog und Prompt-/KI-Dokumentation gemacht werden. Lernjournal-Vorlage entfernen, Stand P1 prüfen.
+- Ergebnis: GitHub Action „Pflicht-Check“ auf jedem Pull Request, PR-Vorlage mit Checkliste, Regeln in CLAUDE.md, Check als Pflicht für `main`
+- Übernommen / angepasst / verworfen: übernommen
+- Geprüft durch: Check läuft auf PR #25
+
 ### 13.11.2026 – Leon – Teamprozess, Sprints und Epic
 - Tool: Claude Code
 - Zweck: Teamaufteilung, Sprints und erstes Epic auf dem Board einrichten

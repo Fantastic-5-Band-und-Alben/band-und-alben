@@ -46,9 +46,10 @@ Wir arbeiten in **Sprints von einer Woche**. Jeden **Freitag** ist Sprint-Meetin
 3. **Arbeiten und committen.**
 4. **Pull Request öffnen:** Im PR `Closes #Nummer` schreiben – dann schliesst sich die Karte beim Merge automatisch. Karte auf *Review* schieben.
 5. **Review:** Jemand anderes schaut den PR an und merged ihn → Karte landet auf *Done*.
-6. **Projektlog:** Kurz ins [`CLAUDE.md`](CLAUDE.md) schreiben, was du gemacht hast.
-7. **Prompts:** Jeden KI-Prompt ins [`prompt-log.md`](prompt-log.md) eintragen.
-8. **Zeit loggen:** Am Ende des Tages pro Task, auf 15 Minuten genau (ca. 160–180 Min. pro Modultag).
+6. **Pflicht in jedem Pull Request** – wird automatisch geprüft, sonst kein Merge:
+   - **Zeit loggen** in deiner Datei unter `Dokumentation/Zeitlogging/` (pro Task, auf 15 Minuten genau, ca. 160–180 Min. pro Modultag)
+   - **Projektlog:** eine Zeile ins [`CLAUDE.md`](CLAUDE.md), was du gemacht hast
+   - **Prompts** ins [`prompt-log.md`](prompt-log.md) – oder im PR „Keine KI verwendet“ ankreuzen
 
 ## Wer macht was?
 

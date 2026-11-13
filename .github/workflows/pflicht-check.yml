@@ -1,0 +1,49 @@
+name: Pflicht-Check
+
+# Jeder Pull Request muss Zeitlog, Projektlog (CLAUDE.md) und Prompt-Log nachführen.
+# Ohne KI-Nutzung reicht es, im PR "Keine KI verwendet" anzukreuzen.
+
+on:
+  pull_request:
+    types: [opened, edited, synchronize, reopened]
+
+permissions:
+  contents: read
+
+jobs:
+  pflicht:
+    name: pflicht
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Zeitlog, Projektlog und Prompt-Log prüfen
+        env:
+          BASE: ${{ github.event.pull_request.base.sha }}
+          HEAD: ${{ github.event.pull_request.head.sha }}
+          BODY: ${{ github.event.pull_request.body }}
+        run: |
+          files=$(git diff --name-only "$BASE...$HEAD")
+          echo "Geänderte Dateien:"
+          echo "$files"
+          fehler=0
+
+          if ! echo "$files" | grep -q '^Dokumentation/Zeitlogging/'; then
+            echo "::error::Zeitlog fehlt: Trag deine Zeit in Dokumentation/Zeitlogging/<Vorname>.md ein."
+            fehler=1
+          fi
+
+          if ! echo "$files" | grep -qx 'CLAUDE.md'; then
+            echo "::error::Projektlog fehlt: Schreib in CLAUDE.md kurz, was gemacht wurde."
+            fehler=1
+          fi
+
+          if ! echo "$files" | grep -qx 'prompt-log.md' && ! printf '%s' "$BODY" | grep -qiE '\[x\] *Keine KI verwendet'; then
+            echo "::error::Prompt-Log fehlt: Prompts in prompt-log.md eintragen oder im PR 'Keine KI verwendet' ankreuzen."
+            fehler=1
+          fi
+
+          if [ "$fehler" -eq 0 ]; then echo "Alles nachgeführt."; fi
+          exit $fehler
