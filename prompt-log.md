@@ -24,7 +24,7 @@ Für Abgaben zusätzlich einen ausgewählten Eintrag in den [KI-Nachweis](Dokume
 - Tool: Claude Code
 - Zweck: Der Lehrperson P1 auf einer Seite zeigen können
 - Prompt (Inhalt): Ein Markdown für P1 mit allen Verlinkungen erstellen, damit die Lehrperson direkt sieht, dass alles vorhanden ist.
-- Ergebnis: Dokumentation/P1_Abgabe.md mit Abgabekriterien, Status, Links, Teamorganisation, offenen Punkten und FG1-Spickzettel
+- Ergebnis: Dokumentation/P1_Abgabe.md mit Abgabekriterien, Links, Team, Arbeitsweise und offenen Punkten – danach einfacher und persönlicher umgeschrieben
 - Übernommen / angepasst / verworfen: übernommen; offene Punkte ehrlich als offen markiert
 - Geprüft durch: Stand der Karten und der Einladung über GitHub abgefragt
 
