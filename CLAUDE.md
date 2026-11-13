@@ -53,7 +53,7 @@ Neuster Eintrag oben. Format: Datum · Wer · Was · Branch/PR
 
 | Datum | Wer | Was wurde gemacht | Branch / PR |
 |-------|-----|-------------------|-------------|
-| 13.11.2026 | Leon | Zeitlog-Dateien für alle angelegt. Hinweis: Heute haben wir gemeinsam an einem Gerät (Leon) gearbeitet und viel besprochen – deshalb laufen alle Commits von heute über Leon | #25 |
+| 13.11.2026 | Leon | Zeitlog-Dateien für alle angelegt, 150 Minuten gemeinsame Session für alle. Hinweis: Heute haben wir gemeinsam an einem Gerät (Leon) gearbeitet und viel besprochen – deshalb laufen alle Commits von heute über Leon | #25 |
 | 13.11.2026 | Leon | Team „Fantastic 5“ mit Schreibrechten auf Repo und Board, Lehrperson eingeladen, GitHub-Namen im Readme | #25 |
 | 13.11.2026 | Leon | Pflicht-Check für Pull Requests (Zeitlog, Projektlog, Prompt-Log) und PR-Vorlage | #25 |
 | 13.11.2026 | Leon | Teams, Sprints, Epic, Projektlog und Prompt-Log eingerichtet | #25 |

@@ -14,4 +14,3 @@
 | Levin | [Levin.md](Levin.md) |
 | Rana | [Rana.md](Rana.md) |
 
-Wo `?` steht, trägt die Person ihre Minuten selbst nach.
