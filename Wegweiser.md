@@ -21,8 +21,10 @@ Die genauen Anforderungen stehen in den [User Stories](Dokumentation/User_Storie
 | Meine Zeiterfassung | [`Dokumentation/Zeitlogging/`](Dokumentation/Zeitlogging/Readme.md) – eine Datei pro Person |
 | Den Code | Ordner [`Code/`](Code/Readme.md) – `band-service` und `album-service` |
 | Termine und Abgaben | [Readme](Readme.md#termine-und-abgaben) |
-| KI-Nutzung festhalten | [`Dokumentation/KI-Nachweis.md`](Dokumentation/KI-Nachweis.md) |
-| Mein Lernjournal (freiwillig) | eigenes Repo – siehe unten |
+| Was wurde zuletzt gemacht? | [`CLAUDE.md`](CLAUDE.md) – Projektlog |
+| KI-Prompts dokumentieren | [`prompt-log.md`](prompt-log.md) – jeder Prompt |
+| KI-Nutzung für Abgaben | [`Dokumentation/KI-Nachweis.md`](Dokumentation/KI-Nachweis.md) |
+| Mein Lernjournal (freiwillig) | eigenes privates Repo `m324-lernjournal-Vorname` – Links im [Readme](Readme.md#andere-links) |
 
 ## Erste Schritte (einmalig)
 
@@ -33,16 +35,33 @@ Die genauen Anforderungen stehen in den [User Stories](Dokumentation/User_Storie
    ```
 3. **Zeitlogging anlegen:** [`Vorlage.md`](Dokumentation/Zeitlogging/Vorlage.md) kopieren als `Dokumentation/Zeitlogging/DeinVorname.md` und in der [Übersicht](Dokumentation/Zeitlogging/Readme.md) eintragen.
 4. **Im Readme** deinen Namen, dein GitHub-Konto und deine Rolle in die Team-Tabelle eintragen.
-5. **Lernjournal (freiwillig):** Öffne die [Lernjournal-Vorlage](https://github.com/Fantastic-5-Band-und-Alben/lernjournal-vorlage) → **Use this template** → als Owner **dein eigenes Konto** wählen, **Private** → Lehrperson unter *Settings → Collaborators* einladen → Link im Readme unter „Andere Links“ eintragen.
+5. **Lernjournal (freiwillig):** Jede Person hat ihr eigenes privates Repo `m324-lernjournal-Vorname` in der Organisation. Lehrperson dort unter *Settings → Collaborators* einladen.
 
 ## So arbeiten wir
 
-1. **Aufgabe nehmen:** Auf dem Board eine Karte aus *To Do* nehmen, dich zuweisen (*Assignees*) und auf *In Progress* schieben.
-2. **Branch erstellen:** Namensregeln stehen in der [Branching-Strategie](Dokumentation/Branching_Strategie.md) (legen wir gemeinsam fest).
+Wir arbeiten in **Sprints von einer Woche**. Jeden **Freitag** ist Sprint-Meeting: Rückblick, Retro, Planung des nächsten Sprints.
+
+1. **Aufgabe nehmen:** Auf dem Board eine Karte aus dem aktuellen Sprint in *To Do* nehmen, dich zuweisen (*Assignees*) und auf *In Progress* schieben.
+2. **Branch erstellen:** Nie direkt auf `main` – `main` ist geschützt. Namensregeln stehen in der [Branching-Strategie](Dokumentation/Branching_Strategie.md).
 3. **Arbeiten und committen.**
 4. **Pull Request öffnen:** Im PR `Closes #Nummer` schreiben – dann schliesst sich die Karte beim Merge automatisch. Karte auf *Review* schieben.
 5. **Review:** Jemand anderes schaut den PR an und merged ihn → Karte landet auf *Done*.
-6. **Zeit loggen:** Am Ende des Tages pro Task, auf 15 Minuten genau (ca. 160–180 Min. pro Modultag).
+6. **Pflicht in jedem Pull Request** – wird automatisch geprüft, sonst kein Merge:
+   - **Zeit loggen** in deiner Datei unter `Dokumentation/Zeitlogging/` (pro Task, auf 15 Minuten genau, ca. 160–180 Min. pro Modultag)
+   - **Projektlog:** eine Zeile ins [`CLAUDE.md`](CLAUDE.md), was du gemacht hast
+   - **Prompts** ins [`prompt-log.md`](prompt-log.md) – oder im PR „Keine KI verwendet“ ankreuzen
+
+## Wer macht was?
+
+| Bereich | Personen |
+|---------|----------|
+| Product Owner | Leon |
+| Entwicklung Band-Service | Leart, Leon |
+| Entwicklung Album-Service | Ajna, Levin, Rana |
+| CI/CD | Ajna |
+| Testing | alle |
+
+Auf dem Board hat jede Karte ein Feld **Team** und ein Feld **Sprint**.
 
 ## Board-Phasen
 

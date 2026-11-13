@@ -8,11 +8,14 @@ Gruppenprojekt Modul 324 (DevOps), **Projekt 3: Musikplattform**. Ein Web API (n
 
 | Name | GitHub | Rolle |
 |------|--------|-------|
-| Leon | [@LeonWWImmo](https://github.com/LeonWWImmo) | _offen_ |
-| _Name_ | _@github_ | _offen_ |
-| _Name_ | _@github_ | _offen_ |
-| _Name_ | _@github_ | _offen_ |
-| _Name_ | _@github_ | _offen_ |
+| Leon | [@LeonWWImmo](https://github.com/LeonWWImmo) | Product Owner, Entwicklung Band-Service, Testing |
+| Leart | [@Leart165](https://github.com/Leart165) | Entwicklung Band-Service, Testing |
+| Ajna | [@aj-kry](https://github.com/aj-kry) | CI/CD, Entwicklung Album-Service, Testing |
+| Levin | [@Le999vin](https://github.com/Le999vin) | Entwicklung Album-Service, Testing |
+| Rana | [@ranaaksoy](https://github.com/ranaaksoy) | Entwicklung Album-Service, Testing |
+
+- [Projektlog (CLAUDE.md)](CLAUDE.md) – was wurde gemacht
+- [Prompt-Log](prompt-log.md) – alle KI-Prompts
 
 ## Theorieinhalte
 
@@ -41,11 +44,11 @@ Gruppenprojekt Modul 324 (DevOps), **Projekt 3: Musikplattform**. Ein Web API (n
 
 - [Kanban Board](https://github.com/orgs/Fantastic-5-Band-und-Alben/projects/1)
 - [Zeitlogging](Dokumentation/Zeitlogging/Readme.md)
-- [Lernjournal Leon](https://github.com/LeonWWImmo/m324-lernjournal)
-- Lernjournal _Name_: _Link_
-- Lernjournal _Name_: _Link_
-- Lernjournal _Name_: _Link_
-- Lernjournal _Name_: _Link_
+- [Lernjournal Leon](https://github.com/Fantastic-5-Band-und-Alben/m324-lernjournal-Leon) (privat)
+- [Lernjournal Leart](https://github.com/Fantastic-5-Band-und-Alben/m324-lernjournal-leart) (privat)
+- [Lernjournal Ajna](https://github.com/Fantastic-5-Band-und-Alben/m324-lernjournal-Ajna) (privat)
+- [Lernjournal Levin](https://github.com/Fantastic-5-Band-und-Alben/m324-lernjournal-levin) (privat)
+- [Lernjournal Rana](https://github.com/Fantastic-5-Band-und-Alben/m324-lernjournal-rana) (privat)
 
 ## Termine und Abgaben
 

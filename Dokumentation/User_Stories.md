@@ -2,13 +2,13 @@
 
 Wir erstellen eine Applikation, mit der man Bands und Alben verwalten kann. Rolle: Anbieter einer Plattform, auf der man Musik kaufen kann. Nur Backend – jede User Story ist ein Endpoint eines Web APIs.
 
-Die User Stories sind vom Modul vorgegeben. Jede Story ist zusätzlich ein Issue auf dem [Kanban Board](https://github.com/orgs/Fantastic-5-Band-und-Alben/projects/1).
+Die User Stories sind vom Modul vorgegeben. Der PO leitet daraus und aus dem Epic die Stories auf dem [Kanban Board](https://github.com/orgs/Fantastic-5-Band-und-Alben/projects/1) ab.
 
 | Nr. | Microservice | User Story | Endpoint | Issue |
 |-----|--------------|------------|----------|-------|
-| US1 | Bands | Band erfassen | _festlegen_ | #15 |
-| US2 | Bands | Alle Bands auslesen | _festlegen_ | #16 |
-| US3 | Alben | Alben erfassen | _festlegen_ | #17 |
+| US1 | Bands | Band erfassen | _festlegen_ | folgt (PO) |
+| US2 | Bands | Alle Bands auslesen | _festlegen_ | folgt (PO) |
+| US3 | Alben | Alben erfassen | _festlegen_ | folgt (PO) |
 
 **Wichtig:** Beide Microservices sind separate Projekte. Sie dürfen dieselbe Datenbank verwenden, aber nicht die Daten des anderen Service laden. Der Endpoint von US3 muss die Band über den Endpoint von US2 auslesen, nicht direkt aus der Datenbank.
 

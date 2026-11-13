@@ -6,7 +6,7 @@
 | CI/CD | GitHub Actions | `.github/workflows/` (folgt mit P3) |
 | Kanban Board | GitHub Projects | [Kanban Band und Alben](https://github.com/orgs/Fantastic-5-Band-und-Alben/projects/1) |
 | Zeitlogging | Markdown im Repository | [Zeitlogging](Zeitlogging/Readme.md) |
-| Lernjournal | persönliches Repository pro Person (freiwillig) | im [Readme](../Readme.md) verlinkt |
+| Lernjournal | privates Repository pro Person in der Organisation (freiwillig) | im [Readme](../Readme.md) verlinkt |
 
 ## Begründung der Toolwahl
 
