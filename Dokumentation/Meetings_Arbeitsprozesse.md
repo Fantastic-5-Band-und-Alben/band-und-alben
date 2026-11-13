@@ -48,7 +48,7 @@ Wir arbeiten in Sprints von einer Woche. Das Team-Meeting ist **jeden Freitag**.
 
 | Datum | Was lief gut? | Was verbessern wir? | Massnahme |
 |-------|---------------|---------------------|-----------|
-| | | | |
+| 13.11.2026 | Noch kein Meeting, nur Planungsbesprechungen. Setup zusammen gemacht, Rollen verteilt. | – | Die Sprint-Meetings starten am Freitag, 20.11. |
 
 ## Feedback aus Fachgesprächen
 

@@ -47,5 +47,5 @@ Alles dazu kommt in [Applikation / Technologie](Applikation_Technologie.md).
 
 - [ ] Technologieentscheid mit Begründung ([#5](https://github.com/Fantastic-5-Band-und-Alben/band-und-alben/issues/5))
 - [ ] Begründung der Toolwahl ([#4](https://github.com/Fantastic-5-Band-und-Alben/band-und-alben/issues/4))
-- [ ] Ablauf der Meetings ausführlicher ([#6](https://github.com/Fantastic-5-Band-und-Alben/band-und-alben/issues/6))
-- [ ] KI-Nachweis für P1 ([#9](https://github.com/Fantastic-5-Band-und-Alben/band-und-alben/issues/9))
+- [ ] Ablauf der Meetings ausführlicher – die Meetings starten erst am 20.11., diese Woche gab es nur Planungsbesprechungen ([#6](https://github.com/Fantastic-5-Band-und-Alben/band-und-alben/issues/6))
+- [x] [KI-Nachweis für P1](KI-Nachweis.md) – Leon ergänzt noch die persönlichen Punkte ([#9](https://github.com/Fantastic-5-Band-und-Alben/band-und-alben/issues/9))
