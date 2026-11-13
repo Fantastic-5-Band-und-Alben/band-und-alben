@@ -1,15 +1,12 @@
 # Zeitlogging – Vorname
 
-## Tag 01 – TT.MM.JJJJ
+| TaskNr | Datum | Minuten | Wer | Beschreibung |
+|--------|-------|---------|-----|--------------|
+| #… | TT.MM.JJJJ | 45 | Vorname | … |
+| Planung | TT.MM.JJJJ | 30 | Vorname | Planungsmeeting |
 
-| Task / Issue | Tätigkeit | Zeit (h) |
-|--------------|-----------|----------|
-| #… | … | 0.0 |
-| | **Total** | 0.0 |
+## Total pro Modultag
 
-## Tag 02 – TT.MM.JJJJ
-
-| Task / Issue | Tätigkeit | Zeit (h) |
-|--------------|-----------|----------|
-| #… | … | 0.0 |
-| | **Total** | 0.0 |
+| Datum | Minuten |
+|-------|---------|
+| TT.MM.JJJJ | 0 |

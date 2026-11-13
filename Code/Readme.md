@@ -1,11 +1,10 @@
 # Code
 
-Quellcode des Web APIs (nur Backend). Sprache und Framework: siehe [Technologieentscheid](../Dokumentation/Technologieentscheid.md).
+Zwei Microservices, jeder ist ein eigenes Projekt (eigener Build, eigene Tests, eigene Pipeline):
 
-## Lokal starten
+| Ordner | Microservice | User Stories |
+|--------|--------------|--------------|
+| [band-service](band-service/Readme.md) | Verwaltung von Bands | US1, US2 |
+| [album-service](album-service/Readme.md) | Verwaltung von Alben | US3 |
 
-…
-
-## Tests ausführen
-
-…
+Sprache, Framework und Datenbank: siehe [Applikation / Technologie](../Dokumentation/Applikation_Technologie.md).

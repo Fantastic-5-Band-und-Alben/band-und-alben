@@ -1,8 +1,11 @@
 # Zeitlogging – Leon
 
-## Tag 01 – 13.11.2026
+| TaskNr | Datum | Minuten | Wer | Beschreibung |
+|--------|-------|---------|-----|--------------|
+| #1 | 13.11.2026 | 0 | Leon | Organisation, Repository, Struktur und Kanban Board eingerichtet |
 
-| Task / Issue | Tätigkeit | Zeit (h) |
-|--------------|-----------|----------|
-| #… | Projekt-Setup: Organisation, Repository, Struktur, Kanban Board | 0.0 |
-| | **Total** | 0.0 |
+## Total pro Modultag
+
+| Datum | Minuten |
+|-------|---------|
+| 13.11.2026 | 0 |

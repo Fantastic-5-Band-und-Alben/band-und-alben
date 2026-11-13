@@ -1,16 +1,16 @@
-# Infrastruktur und Toolwahl
+# P1 – Infrastruktur und Toolwahl
 
 | Bereich | Tool | Link |
 |---------|------|------|
-| Git Repository | GitHub | [band-und-alben](https://github.com/Fantastic-5-Band-und-Alben/band-und-alben) |
-| CI/CD | GitHub Actions | `.github/workflows/` (folgt) |
+| Git Repository | GitHub (Organisation Fantastic-5-Band-und-Alben) | [band-und-alben](https://github.com/Fantastic-5-Band-und-Alben/band-und-alben) |
+| CI/CD | GitHub Actions | `.github/workflows/` (folgt mit P3) |
 | Kanban Board | GitHub Projects | [Kanban Band und Alben](https://github.com/orgs/Fantastic-5-Band-und-Alben/projects/1) |
 | Zeitlogging | Markdown im Repository | [Zeitlogging](Zeitlogging/Readme.md) |
-| Lernjournal | persönliches Repository pro Person | im [Readme](../Readme.md) verlinkt |
+| Lernjournal | persönliches Repository pro Person (freiwillig) | im [Readme](../Readme.md) verlinkt |
 
 ## Begründung der Toolwahl
 
-_Vom Team ergänzen: Warum diese Tools für unser Projekt? Welche Alternativen (z.B. GitLab, Azure DevOps) haben wir angeschaut?_
+_Vom Team ergänzen: Warum diese Tools für unser Projekt? Welche Alternativen (z.B. GitLab, Azure DevOps, Excel für Zeitlogging) haben wir angeschaut?_
 
 …
 
@@ -26,7 +26,7 @@ _Vom Team ergänzen: Warum diese Tools für unser Projekt? Welche Alternativen (
 
 ## Weg einer Anforderung bis zur Auslieferung
 
-_Vom Team ergänzen und für das Fachgespräch FG1 vorbereiten._
+_Vom Team ergänzen und für FG1 vorbereiten._
 
 1. User Story als Issue erfassen → Backlog
 2. …
