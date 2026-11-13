@@ -2,7 +2,7 @@
 
 Wir erstellen eine Applikation, mit der man Bands und Alben verwalten kann. Rolle: Anbieter einer Plattform, auf der man Musik kaufen kann. Nur Backend – jede User Story ist ein Endpoint eines Web APIs.
 
-Die User Stories sind vom Modul vorgegeben. Der PO leitet daraus und aus dem Epic die Stories auf dem [Kanban Board](https://github.com/orgs/Fantastic-5-Band-und-Alben/projects/1).
+Die User Stories sind vom Modul vorgegeben. Der PO leitet daraus und aus dem Epic die Stories auf dem [Kanban Board](https://github.com/orgs/Fantastic-5-Band-und-Alben/projects/1) ab.
 
 | Nr. | Microservice | User Story | Endpoint | Issue |
 |-----|--------------|------------|----------|-------|
