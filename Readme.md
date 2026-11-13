@@ -2,6 +2,8 @@
 
 Gruppenprojekt Modul 324 (DevOps), **Projekt 3: Musikplattform**. Ein Web API (nur Backend) mit zwei Microservices zur Verwaltung von Bands und Alben.
 
+> **P1-Abgabe:** Alle Punkte mit Links auf einen Blick → [P1 – Abgabe](Dokumentation/P1_Abgabe.md)
+>
 > **Neu im Team?** Lies zuerst den [Wegweiser](Wegweiser.md) – dort steht einfach erklärt, wo was ist und wie wir arbeiten.
 
 ## Team
@@ -26,6 +28,7 @@ Gruppenprojekt Modul 324 (DevOps), **Projekt 3: Musikplattform**. Ein Web API (n
 
 ## Themenblöcke
 
+- [P1 Abgabe – Übersicht](Dokumentation/P1_Abgabe.md)
 - [P1 Infrastruktur und Toolwahl](Dokumentation/Infrastruktur.md)
 - [User Stories](Dokumentation/User_Stories.md)
 - [Applikation / Technologie](Dokumentation/Applikation_Technologie.md)

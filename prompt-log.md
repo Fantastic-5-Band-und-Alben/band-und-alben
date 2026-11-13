@@ -20,6 +20,14 @@ Für Abgaben zusätzlich einen ausgewählten Eintrag in den [KI-Nachweis](Dokume
 
 ## Einträge (neuster oben)
 
+### 13.11.2026 – Leon – P1-Abgabe als Übersicht
+- Tool: Claude Code
+- Zweck: Der Lehrperson P1 auf einer Seite zeigen können
+- Prompt (Inhalt): Ein Markdown für P1 mit allen Verlinkungen erstellen, damit die Lehrperson direkt sieht, dass alles vorhanden ist.
+- Ergebnis: Dokumentation/P1_Abgabe.md mit Abgabekriterien, Status, Links, Teamorganisation, offenen Punkten und FG1-Spickzettel
+- Übernommen / angepasst / verworfen: übernommen; offene Punkte ehrlich als offen markiert
+- Geprüft durch: Stand der Karten und der Einladung über GitHub abgefragt
+
 ### 13.11.2026 – Leon – Zeitlog-Dateien
 - Tool: Claude Code
 - Zweck: Zeitlogging für alle starten (Teil der P1-Abgabe)
