@@ -76,7 +76,7 @@ _Eintrag von Leon. Andere aus dem Team ergänzen, falls sie KI genutzt haben._
 
 - Auftrag: T1 DevOps-Kultur: CALMS und The Three Ways
 - KI-Tool: Claude Code
-- Zweck der Nutzung: Eigene Antworten reviewen lassen (Korrektheit, was fehlt), Grammatik und Satzstellung verbessern, die Teile des Teams in einem Dokument zusammenführen
+- Zweck der Nutzung: Eigene Antworten reviewen lassen (Korrektheit, was fehlt), Grammatik und Satzstellung verbessern, die Teile des Teams in einem Dokument zusammenführen.
 - Eigener Startplan ohne KI: Aufgaben im Team aufgeteilt (Leon Culture und Automation, Levin Lean, Rana Measurement und Sharing, Leart The Three Ways), Unterlagen gelesen, Antworten selbst geschrieben
 
 ### KI-Nutzung
@@ -108,6 +108,13 @@ _Eintrag von Leon. Andere aus dem Team ergänzen, falls sie KI genutzt haben._
 - Welchen Zusammenhang habe ich nach dem Schliessen des Chats selbst erklärt oder auf einen veränderten Fall angewendet? _Leon ergänzen (z. B. nach dem FG1)_
 - Was gelang bereits, und wobei brauchte ich noch Unterstützung? _Leon ergänzen_
 - Was übe ich als Nächstes? _Leon ergänzen_
+
+### Ergänzung Levin (Lean)
+
+- Zweck: Eigenen Lean-Abschnitt reviewen lassen (Korrektheit, was fehlt). Text selbst geschrieben.
+- Wichtigste KI-Hinweise: Fachbegriff „Waste“ fehlt; begründen, warum Warten Waste ist; bei TechNova „CI/CD-Pipeline“ statt „Automatisierung“; das Frontend-Beispiel gibt das Modul vor und ist kein eigener Lean-Entscheid; Verbesserung als konkrete, überprüfbare Regel formulieren.
+- Übernommen: Waste mit Begründung, CI/CD-Pipeline, Review-Regel (zwei Arbeitstage). Verworfen: Frontend-Beispiel gestrichen.
+- Validierung: Abgleich mit der Unterlage [CALMS](https://ch-tbz-it.gitlab.io/Stud/m324/Kultur/CALMS/) und der Fallstudie TechNova.
 
 ---
 
