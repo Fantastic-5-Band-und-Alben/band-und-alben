@@ -13,9 +13,37 @@ Ein Dokument für alle. Pro Modultag sieht man auf einen Blick, wer wie lange wo
 
 | Datum | Leon | Leart | Ajna | Levin | Rana |
 |-------|------|-------|------|-------|------|
+| 27.11.2026 | 165 | 165 | 165 | 165 | 165 |
 | 13.11.2026 | 150 + ? | 150 | 150 | 150 | 150 |
 
 ---
+
+## 27.11.2026
+
+Zusammen gearbeitet: 30 Min. lesen, 20 Min. Pause (nicht gezählt), 15 Min. Daily, 9:30–11:20 Arbeit, 10 Min. Retro.
+
+| Wer | Task | Minuten | Was |
+|-----|------|---------|-----|
+| Leon | #10 | 30 | Auftrag lesen und verstehen |
+| Leart | #10, #11 | 30 | Auftrag lesen und verstehen |
+| Ajna | #11 | 30 | Auftrag lesen und verstehen |
+| Levin | #10 | 30 | Auftrag lesen und verstehen |
+| Rana | #10 | 30 | Auftrag lesen und verstehen |
+| Leon | Meeting | 15 | Daily: Aufgaben aufteilen, Fragen klären |
+| Leart | Meeting | 15 | Daily: Aufgaben aufteilen, Fragen klären |
+| Ajna | Meeting | 15 | Daily: Aufgaben aufteilen, Fragen klären |
+| Levin | Meeting | 15 | Daily: Aufgaben aufteilen, Fragen klären |
+| Rana | Meeting | 15 | Daily: Aufgaben aufteilen, Fragen klären |
+| Leon | #10 | 110 | T1: Culture und Automation geschrieben, alle Teile zusammengetragen, Stoff verstehen |
+| Leart | #10, #11 | 110 | T1: The Three Ways, T2: MVP und Transfer, Stoff verstehen |
+| Ajna | #11 | 110 | T2: SDLC, DevOps Lifecycle, Unterschiede, Stoff verstehen |
+| Levin | #10 | 110 | T1: Lean, Stoff verstehen |
+| Rana | #10 | 110 | T1: Measurement und Sharing, Stoff verstehen |
+| Leon | Meeting | 10 | Retro |
+| Leart | Meeting | 10 | Retro |
+| Ajna | Meeting | 10 | Retro |
+| Levin | Meeting | 10 | Retro |
+| Rana | Meeting | 10 | Retro |
 
 ## 13.11.2026
 
