@@ -17,7 +17,7 @@ Gruppenprojekt Modul 324 (DevOps), **Projekt 3: Musikplattform**. Ein Web API (n
 | Rana | [@ranaaksoy](https://github.com/ranaaksoy) | Entwicklung Album-Service, Testing |
 
 - [Projektlog (CLAUDE.md)](CLAUDE.md) – was wurde gemacht
-- [Prompt-Log](prompt-log.md) – alle KI-Prompts
+- [KI-Nachweis](Dokumentation/KI-Nachweis.md) – KI-Nutzung pro Abgabe
 
 ## Theorieinhalte
 
@@ -34,7 +34,7 @@ Gruppenprojekt Modul 324 (DevOps), **Projekt 3: Musikplattform**. Ein Web API (n
 - [Applikation / Technologie](Dokumentation/Applikation_Technologie.md)
 - [D2 Branching-Strategie und Semantic Versioning](Dokumentation/Branching_Strategie.md)
 - [D3 Meetings / Arbeitsprozesse](Dokumentation/Meetings_Arbeitsprozesse.md)
-- [D4 Zeitlogging](Dokumentation/Zeitlogging/Readme.md)
+- [D4 Zeitlog](Dokumentation/Zeitlog.md)
 - [KI-Nachweis](Dokumentation/KI-Nachweis.md)
 
 ## Code
@@ -46,7 +46,7 @@ Gruppenprojekt Modul 324 (DevOps), **Projekt 3: Musikplattform**. Ein Web API (n
 ## Andere Links
 
 - [Kanban Board](https://github.com/orgs/Fantastic-5-Band-und-Alben/projects/1)
-- [Zeitlogging](Dokumentation/Zeitlogging/Readme.md)
+- [Zeitlog (alle Personen)](Dokumentation/Zeitlog.md)
 - [Lernjournal Leon](https://github.com/Fantastic-5-Band-und-Alben/m324-lernjournal-Leon) (privat)
 - [Lernjournal Leart](https://github.com/Fantastic-5-Band-und-Alben/m324-lernjournal-leart) (privat)
 - [Lernjournal Ajna](https://github.com/Fantastic-5-Band-und-Alben/m324-lernjournal-Ajna) (privat)

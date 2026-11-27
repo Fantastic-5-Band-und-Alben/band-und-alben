@@ -1,6 +1,6 @@
 name: Pflicht-Check
 
-# Jeder Pull Request muss Zeitlog, Projektlog (CLAUDE.md) und Prompt-Log nachführen.
+# Jeder Pull Request muss Zeitlog, Projektlog (CLAUDE.md) und KI-Nachweis nachführen.
 # Ohne KI-Nutzung reicht es, im PR "Keine KI verwendet" anzukreuzen.
 
 on:
@@ -19,7 +19,7 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Zeitlog, Projektlog und Prompt-Log prüfen
+      - name: Zeitlog, Projektlog und KI-Nachweis prüfen
         env:
           BASE: ${{ github.event.pull_request.base.sha }}
           HEAD: ${{ github.event.pull_request.head.sha }}
@@ -30,8 +30,8 @@ jobs:
           echo "$files"
           fehler=0
 
-          if ! echo "$files" | grep -q '^Dokumentation/Zeitlogging/'; then
-            echo "::error::Zeitlog fehlt: Trag deine Zeit in Dokumentation/Zeitlogging/<Vorname>.md ein."
+          if ! echo "$files" | grep -qx 'Dokumentation/Zeitlog.md'; then
+            echo "::error::Zeitlog fehlt: Trag deine Zeit in Dokumentation/Zeitlog.md ein."
             fehler=1
           fi
 
@@ -40,8 +40,8 @@ jobs:
             fehler=1
           fi
 
-          if ! echo "$files" | grep -qx 'prompt-log.md' && ! printf '%s' "$BODY" | grep -qiE '\[x\] *Keine KI verwendet'; then
-            echo "::error::Prompt-Log fehlt: Prompts in prompt-log.md eintragen oder im PR 'Keine KI verwendet' ankreuzen."
+          if ! echo "$files" | grep -qx 'Dokumentation/KI-Nachweis.md' && ! printf '%s' "$BODY" | grep -qiE '\[x\] *Keine KI verwendet'; then
+            echo "::error::KI-Nachweis fehlt: KI-Nutzung in Dokumentation/KI-Nachweis.md eintragen oder im PR 'Keine KI verwendet' ankreuzen."
             fehler=1
           fi
 

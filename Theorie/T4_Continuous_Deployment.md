@@ -62,4 +62,4 @@ Mehrere Quellen pro Thema.
 
 ## KI-Nachweis
 
-Siehe [KI-Nachweis](../Dokumentation/KI-Nachweis.md) oder hier eintragen. Ohne KI-Nutzung: „Keine KI verwendet.“
+Steht im [KI-Nachweis](../Dokumentation/KI-Nachweis.md) (ein Dokument für alle Abgaben).

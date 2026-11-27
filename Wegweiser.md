@@ -18,12 +18,11 @@ Die genauen Anforderungen stehen in den [User Stories](Dokumentation/User_Storie
 | Aufgaben – was ist zu tun, wer macht was | [Kanban Board](https://github.com/orgs/Fantastic-5-Band-und-Alben/projects/1) |
 | Theorieaufträge T1–T4 | Ordner [`Theorie/`](Theorie) – eine Datei pro Auftrag |
 | Unsere Dokumentation (Meetings, Branching, Technologie …) | Ordner [`Dokumentation/`](Dokumentation) – eine Datei pro Thema |
-| Meine Zeiterfassung | [`Dokumentation/Zeitlogging/`](Dokumentation/Zeitlogging/Readme.md) – eine Datei pro Person |
+| Zeiterfassung | [`Dokumentation/Zeitlog.md`](Dokumentation/Zeitlog.md) – ein Dokument für alle, pro Tag ein Abschnitt |
 | Den Code | Ordner [`Code/`](Code/Readme.md) – `band-service` und `album-service` |
 | Termine und Abgaben | [Readme](Readme.md#termine-und-abgaben) |
 | Was wurde zuletzt gemacht? | [`CLAUDE.md`](CLAUDE.md) – Projektlog |
-| KI-Prompts dokumentieren | [`prompt-log.md`](prompt-log.md) – jeder Prompt |
-| KI-Nutzung für Abgaben | [`Dokumentation/KI-Nachweis.md`](Dokumentation/KI-Nachweis.md) |
+| KI-Nutzung dokumentieren | [`Dokumentation/KI-Nachweis.md`](Dokumentation/KI-Nachweis.md) – ein Eintrag pro Abgabe, offizielles Template |
 | Mein Lernjournal (freiwillig) | eigenes privates Repo `m324-lernjournal-Vorname` – Links im [Readme](Readme.md#andere-links) |
 
 ## Erste Schritte (einmalig)
@@ -33,7 +32,7 @@ Die genauen Anforderungen stehen in den [User Stories](Dokumentation/User_Storie
    ```
    git clone https://github.com/Fantastic-5-Band-und-Alben/band-und-alben.git
    ```
-3. **Zeitlogging anlegen:** [`Vorlage.md`](Dokumentation/Zeitlogging/Vorlage.md) kopieren als `Dokumentation/Zeitlogging/DeinVorname.md` und in der [Übersicht](Dokumentation/Zeitlogging/Readme.md) eintragen.
+3. **Zeitlog:** Im gemeinsamen [Zeitlog](Dokumentation/Zeitlog.md) steht oben, wie man einträgt.
 4. **Im Readme** deinen Namen, dein GitHub-Konto und deine Rolle in die Team-Tabelle eintragen.
 5. **Lernjournal (freiwillig):** Jede Person hat ihr eigenes privates Repo `m324-lernjournal-Vorname` in der Organisation. Lehrperson dort unter *Settings → Collaborators* einladen.
 
@@ -47,9 +46,9 @@ Wir arbeiten in **Sprints von einer Woche**. Jeden **Freitag** ist Sprint-Meetin
 4. **Pull Request öffnen:** Im PR `Closes #Nummer` schreiben – dann schliesst sich die Karte beim Merge automatisch. Karte auf *Review* schieben.
 5. **Review:** Jemand anderes schaut den PR an und merged ihn → Karte landet auf *Done*.
 6. **Pflicht in jedem Pull Request** – wird automatisch geprüft, sonst kein Merge:
-   - **Zeit loggen** in deiner Datei unter `Dokumentation/Zeitlogging/` (pro Task, auf 15 Minuten genau, ca. 160–180 Min. pro Modultag)
+   - **Zeit loggen** im [Zeitlog](Dokumentation/Zeitlog.md) beim richtigen Tag (pro Task, auf 15 Minuten genau, ca. 160–180 Min. pro Modultag)
    - **Projektlog:** eine Zeile ins [`CLAUDE.md`](CLAUDE.md), was du gemacht hast
-   - **Prompts** ins [`prompt-log.md`](prompt-log.md) – oder im PR „Keine KI verwendet“ ankreuzen
+   - **KI:** Eintrag der Abgabe im [KI-Nachweis](Dokumentation/KI-Nachweis.md) ergänzen – oder im PR „Keine KI verwendet“ ankreuzen
 
 ## Wer macht was?
 

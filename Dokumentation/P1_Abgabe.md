@@ -13,7 +13,7 @@ Hier ist alles, was zu P1 gehört, mit Link.
 ## Was verlangt war
 
 - ✅ **Ordnerstruktur:** [Theorie](../Theorie), [Dokumentation](../Dokumentation), [Code](../Code) und das [Readme](../Readme.md).
-- ✅ **Zeitlogging:** Jede Person hat eine eigene Datei: [Leon](Zeitlogging/Leon.md), [Leart](Zeitlogging/Leart.md), [Ajna](Zeitlogging/Ajna.md), [Levin](Zeitlogging/Levin.md), [Rana](Zeitlogging/Rana.md).
+- ✅ **Zeitlogging:** Ein gemeinsamer [Zeitlog](Zeitlog.md) für alle. Pro Tag sieht man, wer wie lange woran gearbeitet hat.
 - ✅ **Kanban Board** mit den Spalten Backlog, To Do, In Progress, Review und Done. Dazu Sprints von einer Woche und ein Feld, welches Team zuständig ist.
 - ✅ **Lernjournale:** Jede Person hat ein eigenes privates Repo. Die Links stehen im [Readme](../Readme.md#andere-links).
 - ⏳ **Zugriff für Sie:** Sie sind mit Schreibrechten auf Repo und Board eingeladen. Die Einladung müssen Sie noch annehmen. Das Zeitlogging liegt im Repo, dafür gilt dieselbe Einladung.
@@ -31,7 +31,7 @@ Testen tun alle. Wir treffen uns jeden Freitag zum Sprint-Meeting. Mehr dazu unt
 ## So arbeiten wir
 
 - Niemand arbeitet direkt auf `main`. Alles läuft über Branch, Pull Request und Review.
-- Bei jedem Pull Request prüft ein automatischer Check, ob Zeitlog, [Projektlog](../CLAUDE.md) und [Prompt-Log](../prompt-log.md) nachgeführt sind.
+- Bei jedem Pull Request prüft ein automatischer Check, ob [Zeitlog](Zeitlog.md), [Projektlog](../CLAUDE.md) und [KI-Nachweis](KI-Nachweis.md) nachgeführt sind.
 - Das grosse Ziel steht im [Epic #24](https://github.com/Fantastic-5-Band-und-Alben/band-und-alben/issues/24). Die User Stories folgen.
 
 ## Technologie

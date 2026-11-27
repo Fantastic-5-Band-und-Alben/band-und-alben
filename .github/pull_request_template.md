@@ -6,15 +6,14 @@ Closes #…
 
 ## Pflicht – wird automatisch geprüft
 
-- [ ] Zeit geloggt in `Dokumentation/Zeitlogging/<Vorname>.md`
+- [ ] Zeit geloggt im `Dokumentation/Zeitlog.md`
 - [ ] Eintrag im Projektlog `CLAUDE.md`
-- [ ] Prompts in `prompt-log.md` eingetragen
+- [ ] KI-Nutzung im `Dokumentation/KI-Nachweis.md` eingetragen
 - [ ] Keine KI verwendet
 
-(Eins von beiden: Prompt-Log **oder** „Keine KI verwendet“ ankreuzen.)
+(Eins von beiden: KI-Nachweis **oder** „Keine KI verwendet“ ankreuzen.)
 
 ## Sonst
 
 - [ ] Tests laufen
 - [ ] Neue Dateien im Readme verlinkt
-- [ ] Bei einer Abgabe (T1–T4, P1–P4): Eintrag im [KI-Nachweis](Dokumentation/KI-Nachweis.md)
