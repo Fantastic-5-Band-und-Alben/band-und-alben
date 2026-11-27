@@ -59,6 +59,10 @@ Der DevOps Lifecycle folgt einem **iterativen und kontinuierlichen Ablauf**. Das
 | 7. Operate | Die Software betreiben und ihre Verfügbarkeit sicherstellen.             |
 | 8. Monitor | Fehler, Performance und Systemzustand überwachen und Feedback sammeln.   |
 
+![DevOps Lifecycle als liegende Acht mit den Phasen Plan, Code, Build, Test, Release, Deploy, Operate und Monitor](Bilder/devops-lifecycle.svg)
+
+_Abbildung: DevOps Lifecycle als liegende Acht. Links die Entwicklung (Dev), rechts der Betrieb (Ops). Eigene Darstellung, mit Claude (KI) erstellt, nach dem Phasenmodell von IBM: [What is the DevOps lifecycle?](https://www.ibm.com/think/topics/devops-lifecycle)_
+
 Die Erkenntnisse aus dem Monitoring fliessen wieder in die Planung ein. Dadurch entsteht ein kontinuierlicher Kreislauf. Die genaue Einteilung der Phasen kann je nach DevOps-Modell variieren.
 
 ### Ziele des DevOps Lifecycle

@@ -11,7 +11,7 @@ Das ist die **einzige Datei** für unsere KI-Nutzung. Ein separates Prompt-Log g
 |--------|---------------|---------|
 | P1 Infrastruktur | Ja | [P1](#p1--projekt-setup-und-infrastruktur) |
 | T1 DevOps-Kultur | Ja | [T1](#t1--devops-kultur) |
-| T2 DevOps-Prozesse | | |
+| T2 DevOps-Prozesse | Ja | [T2](#t2--devops-prozesse) |
 | T3 Continuous Integration | | |
 | P2 Applikation v1 | | |
 | P3 / P3b CI und Artefakte | | |
@@ -115,6 +115,50 @@ _Eintrag von Leon. Andere aus dem Team ergänzen, falls sie KI genutzt haben._
 - Wichtigste KI-Hinweise: Fachbegriff „Waste“ fehlt; begründen, warum Warten Waste ist; bei TechNova „CI/CD-Pipeline“ statt „Automatisierung“; das Frontend-Beispiel gibt das Modul vor und ist kein eigener Lean-Entscheid; Verbesserung als konkrete, überprüfbare Regel formulieren.
 - Übernommen: Waste mit Begründung, CI/CD-Pipeline, Review-Regel (zwei Arbeitstage). Verworfen: Frontend-Beispiel gestrichen.
 - Validierung: Abgleich mit der Unterlage [CALMS](https://ch-tbz-it.gitlab.io/Stud/m324/Kultur/CALMS/) und der Fallstudie TechNova.
+
+---
+
+## T2 – DevOps-Prozesse
+
+_Eintrag von Levin (Bild). Ajna Text 
+
+### KI-Nachweis
+
+**Levin**
+- Auftrag: T2 DevOps-Prozesse, Bildunterstützung (DevOps Lifecycle als liegende Acht)
+- KI-Tool: Claude
+- Zweck der Nutzung: Ein Bild des DevOps-Kreislaufs erstellen, das wir ohne Urheberrechtsprobleme verwenden dürfen
+- Eigener Startplan ohne KI: Bestehende Grafik suchen und mit Quelle einfügen
+
+**Ajna**
+- Auftrag: T2 DevOps-Prozesse – SDLC und DevOps Lifecycle
+- KI-Tool: ChatGPT
+- Zweck der Nutzung: Die selbst erstellte Dokumentation sprachlich und fachlich überprüfen und korrigieren lassen.
+- Eigener Startplan ohne KI: Die Lernziele selbstständig beantworten und in einer Markdown-Datei dokumentieren.
+
+### KI-Nutzung
+**Levin**
+- Promptauszug oder Kurzfassung: Bild vom DevOps-Kreislauf als liegende Acht mit Plan, Code, Build, Test, Release, Deploy, Operate, Monitor einfügen und angeben, woher es ist.
+- Wichtigste KI-Antwort: Die bekannten Grafiken (z. B. Atlassian, IBM) sind urheberrechtlich geschützt, und auf Wikimedia Commons gibt es nur Varianten mit anderen Phasennamen. Deshalb eine eigene Darstellung als SVG, mit dem Phasenmodell von IBM als Quelle.
+- Übernommene Vorschläge: Eigene SVG-Grafik unter `Theorie/Bilder/devops-lifecycle.svg`, Bildunterschrift mit Quelle
+- Angepasste oder verworfene Vorschläge: Fremde Grafik einbinden verworfen (Urheberrecht)
+
+**Ajna**
+- Promptauszug oder Kurzfassung: Die bestehende Dokumentation überprüfen, sprachlich korrigieren und kontrollieren, ob alle Lernziele beantwortet werden.
+- Wichtigste KI-Antwort: Rückmeldung zu fehlenden Informationen und unklaren Formulierungen.
+- Übernommene Vorschläge: Sprachliche Korrekturen und verständlichere Formulierungen.
+- Angepasste oder verworfene Vorschläge: Die vorgeschlagene Vergleichstabelle wurde durch Stichpunkte ersetzt.
+
+### Validierung
+**Levin**
+- Prüfung durch Tests, Logs, Pipeline, Review, Screenshot oder Quelle: Phasen und Reihenfolge mit der IBM-Seite und mit der Phasentabelle in T2 abgeglichen, Bild in der Vorschau angeschaut
+- Resultat der Prüfung: Acht Phasen und Reihenfolge stimmen überein
+- Korrekturen nach der Prüfung: Pfeilrichtungen im Bild korrigiert
+
+**Ajna**
+- Prüfung durch Quelle: Die korrigierte Dokumentation erneut durchgelesen und mit den Lernzielen abgeglichen.
+- Resultat der Prüfung: Alle Lernziele werden in der Dokumentation behandelt.
+- Korrekturen nach der Prüfung: Einzelne Formulierungen angepasst und verständlicher gestaltet.
 
 ---
 

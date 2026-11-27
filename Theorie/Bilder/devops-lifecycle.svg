@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 340" width="820" height="340" font-family="Arial, Helvetica, sans-serif">
+  <title>DevOps Lifecycle als liegende Acht: Plan, Code, Build, Test, Release, Deploy, Operate, Monitor</title>
+  <rect width="820" height="340" fill="#ffffff"/>
+
+  <!-- Linke Schlaufe: Dev -->
+  <path d="M410,170 C340,50 120,50 120,170 C120,290 340,290 410,170" fill="none" stroke="#1f5fae" stroke-width="22" stroke-linecap="round"/>
+  <!-- Rechte Schlaufe: Ops -->
+  <path d="M410,170 C480,50 700,50 700,170 C700,290 480,290 410,170" fill="none" stroke="#2e8b57" stroke-width="22" stroke-linecap="round"/>
+
+  <!-- Richtungspfeile (Ablauf: oben links nach links, unten nach rechts, dann rechte Schlaufe im Uhrzeigersinn) -->
+  <polygon points="229,80 247,71 247,89" fill="#ffffff"/>
+  <polygon points="249,260 231,251 231,269" fill="#ffffff"/>
+  <polygon points="591,80 573,71 573,89" fill="#ffffff"/>
+  <polygon points="571,260 589,251 589,269" fill="#ffffff"/>
+
+  <!-- Zentren -->
+  <text x="262" y="178" text-anchor="middle" font-size="28" font-weight="bold" fill="#1f5fae">DEV</text>
+  <text x="558" y="178" text-anchor="middle" font-size="28" font-weight="bold" fill="#2e8b57">OPS</text>
+
+  <!-- Phasen Dev -->
+  <g font-size="17" font-weight="bold" fill="#1f5fae">
+    <text x="330" y="52" text-anchor="middle">1. Plan</text>
+    <text x="60" y="176" text-anchor="middle">2. Code</text>
+    <text x="175" y="306" text-anchor="middle">3. Build</text>
+    <text x="330" y="306" text-anchor="middle">4. Test</text>
+  </g>
+  <!-- Phasen Ops -->
+  <g font-size="17" font-weight="bold" fill="#2e8b57">
+    <text x="490" y="52" text-anchor="middle">5. Release</text>
+    <text x="645" y="52" text-anchor="middle">6. Deploy</text>
+    <text x="765" y="176" text-anchor="middle">7. Operate</text>
+    <text x="490" y="306" text-anchor="middle">8. Monitor</text>
+  </g>
+
+  <text x="410" y="332" text-anchor="middle" font-size="12" fill="#666666">Monitor → Plan: Feedback aus dem Betrieb fliesst in die nächste Planung</text>
+</svg>

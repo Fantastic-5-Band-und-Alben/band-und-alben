@@ -51,6 +51,7 @@ Neuster Eintrag oben. Format: Datum · Wer · Was · Branch/PR
 
 | Datum | Wer | Was wurde gemacht | Branch / PR |
 |-------|-----|-------------------|-------------|
+| 27.11.2026 | Levin | T2: Bild DevOps Lifecycle (liegende Acht, eigene Darstellung mit KI) mit Quelle eingefügt, KI-Nachweis T2 | `docs/t2-bild` |
 | 27.11.2026 | Leon | Zeitlog 27.11. für alle und Retro in D3 eingetragen | `t1/culture-automation-leon` |
 | 27.11.2026 | Leon | T1: Teile von Leon, Levin, Rana und Leart zusammengeführt. D3: Ablauf eines Freitags und Daily-Protokoll, Regel „Texte von Hand, KI nur für Grammatik“ | `t1/culture-automation-leon` |
 | 27.11.2026 | Leon | Feedback Lehrperson umgesetzt: ein gemeinsamer Zeitlog statt einer Datei pro Person, Prompt-Log abgeschafft, nur noch KI-Nachweis mit offiziellem Template | `docs/zeitlog-ki-nachweis` |
