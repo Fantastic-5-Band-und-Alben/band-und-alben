@@ -35,15 +35,11 @@ Eine Pipeline allein ist aber noch kein DevOps. Wenn die Kultur trotz Automatisi
 
 _Geschrieben von Levin_
 
-Bei Lean geht es darum, unnötige Arbeit zu vermeiden und die Arbeitsweise laufend zu verbessern. Ursprünglich kommt dieses Prinzip von Toyota, heute wird es aber auch in der Softwareentwicklung eingesetzt.
+Bei Lean geht es darum, unnötige Arbeit zu vermeiden und die Arbeitsweise laufend zu verbessern. Ursprünglich kommt dieses Prinzip von Toyota, wird aber heutzutage auch in der Softwareentwicklung eingesetzt.
 
-**Bei TechNova:** Früher dauerte es bis zu sechs Monate oder sogar länger, bis neue Funktionen veröffentlicht wurden. Dazu kam, dass viele Tests und Deployments manuell durchgeführt wurden, was viel Zeit kostete. Durch den Einsatz von Kanban und die Automatisierung von Prozessen konnte TechNova jede Woche neue Releases veröffentlichen und schneller auf das Feedback der Kunden eingehen.
+**Bei TechNova:** Früher dauerte es sechs Monate oder sogar länger, bis neue Funktionen veröffentlicht wurden. Dadurch entstanden lange Wartezeiten, die im Lean-Management als Waste bezeichnet werden. Zudem wurden viele Tests und Deployments manuell durchgeführt, was viel Zeit kostete. Durch den Einsatz von Kanban und einer CI/CD-Pipeline konnten sie diesen Aufwand reduzieren, wöchentlich neue Releases veröffentlichen und schneller auf Kundenfeedback reagieren.
 
-**In unserem Projekt:** Wir arbeiten mit wöchentlichen Sprints. Dadurch können wir unsere Aufgaben in kleinere Schritte aufteilen. Auf unserem Kanban-Board sehen wir jederzeit, welche Aufgaben noch offen sind, woran gerade gearbeitet wird und was bereits abgeschlossen ist. Jeden Freitag machen wir zudem eine Retrospektive, in der wir besprechen, was gut gelaufen ist und was wir verbessern können.
-
-Wir konzentrieren uns hauptsächlich auf die Anforderungen unserer User Stories (US1–US3). Zum Beispiel entwickeln wir kein Frontend, da wir für unseren Service keines brauchen.
-
-Es gibt aber auch Punkte, die wir verbessern könnten, vor allem unsere Wartezeiten. Beispielsweise wartet der Pull Request #31 seit zwei Wochen auf ein Review. Zudem haben wir einige Dokumentationsvorlagen erstellt, die noch nicht ausgefüllt sind. Hier können wir von TechNova lernen: Wir sollten Reviews schneller machen, damit erledigte Arbeit nicht unnötig liegen bleibt, und Vorlagen erst dann erstellen, wenn wir sie wirklich brauchen.
+**In unserem Projekt:** Wir arbeiten auch mit einem Kanban-Board und wöchentlichen Sprints. Was wir aber noch verbessern könnten, sind unsere Wartezeiten. Zum Beispiel wartet unser Pull Request #31 schon seit zwei Wochen auf einen Review. Um solche Wartezeiten in Zukunft zu vermeiden, könnten wir im Team eine Regel festlegen, dass Pull Requests innerhalb von zwei Arbeitstagen überprüft werden. Dadurch würde bereits erledigte Arbeit nicht unnötig liegen bleiben.
 
 ### Measurement
 
