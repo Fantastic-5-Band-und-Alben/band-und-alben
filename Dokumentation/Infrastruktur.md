@@ -5,7 +5,7 @@
 | Git Repository | GitHub (Organisation Fantastic-5-Band-und-Alben) | [band-und-alben](https://github.com/Fantastic-5-Band-und-Alben/band-und-alben) |
 | CI/CD | GitHub Actions | `.github/workflows/` (folgt mit P3) |
 | Kanban Board | GitHub Projects | [Kanban Band und Alben](https://github.com/orgs/Fantastic-5-Band-und-Alben/projects/1) |
-| Zeitlogging | Markdown im Repository | [Zeitlogging](Zeitlogging/Readme.md) |
+| Zeitlogging | Markdown im Repository | [Zeitlog](Zeitlog.md) |
 | Lernjournal | privates Repository pro Person in der Organisation (freiwillig) | im [Readme](../Readme.md) verlinkt |
 
 ## Begründung der Toolwahl

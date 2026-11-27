@@ -2,7 +2,7 @@
 
 Hier schreibt **jede Person nach jeder Arbeit** kurz auf, was gemacht wurde. So weiss das ganze Team (und jedes KI-Tool, das diese Datei liest) jederzeit, wo wir stehen.
 
-Prompts an KI-Tools gehören zusätzlich ins [prompt-log.md](prompt-log.md).
+KI-Nutzung gehört in den [KI-Nachweis](Dokumentation/KI-Nachweis.md), ein Eintrag pro Abgabe.
 
 ## Projekt in Kürze
 
@@ -14,17 +14,15 @@ Prompts an KI-Tools gehören zusätzlich ins [prompt-log.md](prompt-log.md).
 
 Jeder Pull Request wird automatisch geprüft (`Pflicht-Check`). Ohne diese drei Punkte kann nicht gemergt werden:
 
-1. **Zeitlog:** Zeit pro Task in `Dokumentation/Zeitlogging/<Vorname>.md` (auf 15 Minuten genau).
+1. **Zeitlog:** Zeit pro Task im gemeinsamen [Zeitlog](Dokumentation/Zeitlog.md) beim richtigen Tag (auf 15 Minuten genau).
 2. **Projektlog:** Eine Zeile unten im Log dieser Datei – was wurde gemacht.
-3. **Prompt-Log:** Jeder KI-Prompt in `prompt-log.md` (Inhalt, Ergebnis, was übernommen wurde). Ohne KI im PR „Keine KI verwendet“ ankreuzen.
-
-Bei Abgaben (T1–T4, P1–P4) zusätzlich ein Eintrag in `Dokumentation/KI-Nachweis.md`.
+3. **KI-Nachweis:** Mit KI den Eintrag der Abgabe in `Dokumentation/KI-Nachweis.md` ergänzen (offizielles Template). Ohne KI im PR „Keine KI verwendet“ ankreuzen.
 
 ## Für KI-Tools in diesem Repository
 
 Wenn du als KI-Assistent in diesem Repository arbeitest:
 
-- Trag jeden Auftrag, den du bekommst, in `prompt-log.md` ein (Vorlage dort, Fokus auf den Inhalt).
+- Ergänze den Eintrag der passenden Abgabe in `Dokumentation/KI-Nachweis.md` (offizielles Template, keine vollständigen Chats).
 - Ergänze nach getaner Arbeit eine Zeile im Log unten.
 - Erinnere die Person daran, ihre Zeit im Zeitlog einzutragen. Erfinde keine Minuten.
 - Arbeite auf einem Branch, nie direkt auf `main`.
@@ -53,6 +51,7 @@ Neuster Eintrag oben. Format: Datum · Wer · Was · Branch/PR
 
 | Datum | Wer | Was wurde gemacht | Branch / PR |
 |-------|-----|-------------------|-------------|
+| 27.11.2026 | Leon | Feedback Lehrperson umgesetzt: ein gemeinsamer Zeitlog statt einer Datei pro Person, Prompt-Log abgeschafft, nur noch KI-Nachweis mit offiziellem Template | `docs/zeitlog-ki-nachweis` |
 | 13.11.2026 | Leon | P1-Abgabe als Übersicht mit allen Links (Dokumentation/P1_Abgabe.md), im Readme verlinkt | `docs/p1-abgabe` |
 | 13.11.2026 | Leon | Zeitlog-Dateien für alle angelegt, 150 Minuten gemeinsame Session für alle. Hinweis: Heute haben wir gemeinsam an einem Gerät (Leon) gearbeitet und viel besprochen – deshalb laufen alle Commits von heute über Leon | #25 |
 | 13.11.2026 | Leon | Team „Fantastic 5“ mit Schreibrechten auf Repo und Board, Lehrperson eingeladen, GitHub-Namen im Readme | #25 |

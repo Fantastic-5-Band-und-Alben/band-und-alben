@@ -39,7 +39,7 @@ Wir arbeiten in Sprints von einer Woche. Das Team-Meeting ist **jeden Freitag**.
 - Aufgaben stehen auf dem [Kanban Board](https://github.com/orgs/Fantastic-5-Band-und-Alben/projects/1) mit Sprint und Team.
 - Phasen: Backlog → To Do → In Progress → Review → Done
 - **Nie direkt auf `main`**: immer Branch → Pull Request mit `Closes #Nummer` → Review durch eine andere Person → Merge.
-- Was gemacht wurde, kommt ins [CLAUDE.md](../CLAUDE.md), jeder KI-Prompt ins [prompt-log.md](../prompt-log.md).
+- Was gemacht wurde, kommt ins [CLAUDE.md](../CLAUDE.md), KI-Nutzung pro Abgabe in den [KI-Nachweis](KI-Nachweis.md).
 - Die Services arbeiten gegen einen festgelegten API-Contract; Änderungen nur nach Absprache.
 - Immer genug Tasks in To Do, damit niemand Leerlauf hat.
 - Weg einer Anforderung bis zur Auslieferung: _ergänzen_
