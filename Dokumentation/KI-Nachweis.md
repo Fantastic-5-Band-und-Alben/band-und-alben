@@ -76,7 +76,7 @@ _Eintrag von Leon. Andere aus dem Team ergänzen, falls sie KI genutzt haben._
 
 - Auftrag: T1 DevOps-Kultur: CALMS und The Three Ways
 - KI-Tool: Claude Code
-- Zweck der Nutzung: Eigene Antworten reviewen lassen (Korrektheit, was fehlt), Grammatik und Satzstellung verbessern, die Teile des Teams in einem Dokument zusammenführen
+- Zweck der Nutzung: Eigene Antworten reviewen lassen (Korrektheit, was fehlt), Grammatik und Satzstellung verbessern, die Teile des Teams in einem Dokument zusammenführen.
 - Eigener Startplan ohne KI: Aufgaben im Team aufgeteilt (Leon Culture und Automation, Levin Lean, Rana Measurement und Sharing, Leart The Three Ways), Unterlagen gelesen, Antworten selbst geschrieben
 
 ### KI-Nutzung
