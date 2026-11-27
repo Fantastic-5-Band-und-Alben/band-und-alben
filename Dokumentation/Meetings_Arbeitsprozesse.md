@@ -37,10 +37,11 @@ Wir arbeiten in Sprints von einer Woche. Das Team-Meeting ist **jeden Freitag**.
 ### So läuft ein Freitag (Modultag)
 
 1. **Auftrag lesen und verstehen** (30 Min.): Jede Person liest den Auftrag des Tages für sich.
-2. **Daily:** Wir sprechen das Thema zusammen durch und teilen auf, wer was macht.
-3. **Arbeiten:** Jede Person arbeitet an ihrem Teil. Den schriftlichen Teil teilen wir auf, verstehen muss aber jede Person alles (Fachgespräch).
-4. **Zusammentragen:** Am Schluss tragen wir alles bei einer Person zusammen. Sie macht den Pull Request.
-5. **Retro** am Ende des Tages: Was lief gut, was machen wir nächstes Mal besser?
+2. **Pause** (20 Min.)
+3. **Daily** (15 Min.): Wir sprechen das Thema zusammen durch, klären Fragen und teilen auf, wer was macht.
+4. **Arbeiten** (9:30–11:20): Jede Person arbeitet an ihrem Teil. Den schriftlichen Teil teilen wir auf, verstehen muss aber jede Person alles (Fachgespräch).
+5. **Zusammentragen:** Am Schluss tragen wir alles bei einer Person zusammen. Sie macht den Pull Request.
+6. **Retro** (ca. 10 Min.) am Ende des Tages: Was lief gut, was machen wir nächstes Mal besser?
 
 ## Arbeitsprozess
 
@@ -63,7 +64,7 @@ Wir arbeiten in Sprints von einer Woche. Das Team-Meeting ist **jeden Freitag**.
 
 | Datum | Was lief gut? | Was verbessern wir? | Massnahme |
 |-------|---------------|---------------------|-----------|
-| | | | |
+| 27.11.2026 | Der Anfang war schwer und langsam, viele Fragen waren offen. Nach der Pause konnten wir im Daily viel besprechen und haben den Auftrag zusammen angepackt. Durch die Aufteilung des schriftlichen Teils konnten wir sehr effizient arbeiten. | Gegen Ende wurde es stressig, wir hatten wenig Zeit zum Dokumentieren. Jeder Push erzeugt einen Pull Request, und jedes Mal kleine Sachen approven braucht viel Zeit. | Bis nächste Woche: Daily-Einträge machen, T1 und T2 verstehen und erklären können. |
 
 ## Feedback aus Fachgesprächen
 
